@@ -4,4 +4,4 @@ Nelson Mandela tribute page created as part of the FreeCodeCamp Front End Develo
 
 You can view the page [HERE](https://codepen.io/MohdABadawi/full/rGOoMR/) using codePen.io
 
-![alt text](https://s3-us-west-2.amazonaws.com/i.cdpn.io/1477535.rGOoMR.4dcb0183-1669-40c3-ade5-59e7d1707f26.png)
+![Alt text](NelsonMandelaImg.png?raw=true "Nelson Mandela Tribute Page")
